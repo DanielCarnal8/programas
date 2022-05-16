@@ -1,0 +1,2 @@
+el archivo .ps1 contiene el codigo del programa
+el archivo.exe es el programa en si. hay que ejecutarlo como admin
